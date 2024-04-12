@@ -47,7 +47,7 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
         alt="cplusplus" width="40" height="40" /> </a>
 <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img
-        src="https://icon-library.com/images/what-is-the-powershell-icon/what-is-the-powershell-icon-13.jpg"
+        src="https://techmeaway.net/wp-content/uploads/2020/02/powershell_logo-300x300.png"
         alt="powershell" width="40" height="40" /> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
