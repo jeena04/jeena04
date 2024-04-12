@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeena Sebastian</h1>
-<h3 align="center">Cyber Security Specialist Seeking to Pivot Towards Leveraging AIML for proactive Defense Strategies</h3>
+<p align="left" Cyber Security Specialist Seeking to Pivot Towards Leveraging AIML for proactive Defense Strategies/>
 <h2 align="left">About Me</h2>
 <P>I'm a cybersecurity specialist with experience in PowerShell scripting for automation. My passion lies in the realms of AI, machine learning, and deep learning. I'm actively upskilling myself through hands-on projects to deepen my expertise in these areas.</P>
 
